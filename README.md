@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @intangles-cicd
+- 👀 I’m interested in doing deployment
+- 🌱 I don't learn anything 
+- 💞️ I've zero contribution in collaboration
+- 📫 Talk to mudassir-ngineous to reach out to me
